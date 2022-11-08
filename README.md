@@ -5,7 +5,7 @@
 <br>
 
 > Hello,
-I am Kaan, a senior computer engineering student who is highly interested in the SRE concepts. Furthermore, I am creating content by summarizing technical computer science topics using daily examples on Youtube. Also, I am the owner of the Computer Science Turkey discord channel (~1400 members) where we are providing an environment for people to learn, chat and socialize.
+I am Kaan, a senior computer engineering student who is highly interested in the SRE concepts. Furthermore, I am creating content by summarizing technical computer science topics using daily examples on Youtube. Also, I am the owner of the Computer Science Turkey discord channel (~1600 members) where we are providing an environment for people to learn, chat and socialize.
 
 <br>
 
