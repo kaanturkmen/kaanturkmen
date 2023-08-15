@@ -4,8 +4,7 @@
 
 <br>
 
-> Hello,
-I am Kaan, a computer engineering student who is highly interested in the SRE concepts. Furthermore, I am creating content by summarizing technical computer science topics using daily examples on Youtube. Also, I am the owner of the Computer Science Turkey discord channel (~2000 members) where we are providing an environment for people to learn, chat and socialize.
+> Greetings! I'm Kaan, a passionate computer engineer with a keen focus on Site Reliability Engineering (SRE) principles. Beyond my engineering pursuits, I'm dedicated to demystifying complex computer science topics for a wider audience. To achieve this, I craft content on YouTube, breaking down intricate subjects into relatable day-to-day examples. Furthermore, I'm proud to lead the 'Computer Science Turkey' community on Discord, boasting nearly 2500 members. Our space is designed to inspire learning, foster discussions, and nurture connections among enthusiasts and professionals alike.
 
 <br>
 
