@@ -24,7 +24,7 @@
     Medium
   </a>
   
-  <a href="https://discord.gg/CRy8eER">
+  <a href="https://discord.gg/pU26FbNhGY">
     <img width="111" height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/91a804aef38847ce0d70cc4f796da8931b2f1f19/images/svg/discord.svg">
     Discord
   </a>
