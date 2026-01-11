@@ -5,18 +5,18 @@
 <br>
 
 > Dia duit!
-
-I’m Kaan Türkmen, a Production Engineer at Meta with a background spanning software and infrastructure. I currently focus on improving the security of network infrastructure at scale.
-
-I’m also the founder of the Computer Science Turkiye community on Discord, which has grown to nearly 3,000 members and is one of Turkey’s largest computer science communities.
-
-Connect with me:
-
-• Instagram: itskaanturkmen
-
-• GitHub: kaanturkmen
-
-• Medium: kaanturkmen
+>
+>I’m Kaan Türkmen, a Production Engineer at Meta with a background spanning software and infrastructure. I currently focus on improving the security of network infrastructure at scale.
+>
+>I’m also the founder of the Computer Science Turkiye community on Discord, which has grown to nearly 3,000 members and is one of Turkey’s largest computer science communities.
+>
+>Connect with me:
+>
+>• Instagram: itskaanturkmen
+>
+>• GitHub: kaanturkmen
+>
+>• Medium: kaanturkmen
 
 <br>
 
