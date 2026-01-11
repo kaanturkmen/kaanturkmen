@@ -4,7 +4,19 @@
 
 <br>
 
-> Hi, I'm Kaan, a passionate computer engineer with a strong focus on Site Reliability Engineering (SRE) principles. Outside of my engineering work, I’m dedicated to making complex computer science topics more accessible. I create YouTube content that breaks down intricate concepts using simple, everyday examples. I'm also the founder of the Computer Science Türkiye community on Discord, which has grown to nearly 3,000 members. It’s a vibrant space where learners, enthusiasts, and professionals come together to share knowledge, spark discussions, and build meaningful connections.
+> Dia duit!
+
+I’m Kaan Türkmen, a Production Engineer at Meta with a background spanning software and infrastructure. I currently focus on improving the security of network infrastructure at scale.
+
+I’m also the founder of the Computer Science Turkiye community on Discord, which has grown to nearly 3,000 members and is one of Turkey’s largest computer science communities.
+
+Connect with me:
+
+• Instagram: itskaanturkmen
+
+• GitHub: kaanturkmen
+
+• Medium: kaanturkmen
 
 <br>
 
