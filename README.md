@@ -4,7 +4,7 @@
 
 <br>
 
-> Dia duit!
+> Selam!
 >
 >I’m Kaan Türkmen, a Production Engineer at Meta with a background spanning software and infrastructure. I currently focus on improving the security of network infrastructure at scale.
 >
